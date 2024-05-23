@@ -1,0 +1,17 @@
+{
+  "name": "random-quote-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "postcss src/style.css -o output.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "author": "",
+  "license": "ISC"
+}
